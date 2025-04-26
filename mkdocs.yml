@@ -1,3 +1,12 @@
-site_name: Swiss German NLP
+site_name: Swiss German NLP Resources
 theme:
   name: material
+
+nav:
+  - Home: index.md
+  - Datasets:
+      - Text corpora: datasets/text-corpora.md
+      - Speech corpora: datasets/speech-corpora.md
+  - Tasks:
+      - ASR: tasks/asr.md
+      - MT: tasks/mt.md

@@ -1,4 +1,6 @@
-# Welcome to MkDocs
+# Welcome to (incomplete) list of Swiss German NLP resources
+
+Here’s an incomplete list of Swiss German NLP goodies to help you dive right in!
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
