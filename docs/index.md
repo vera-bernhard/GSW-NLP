@@ -1,4 +1,4 @@
-# GWS (dialectal Swiss German) resource list
+# GSW (dialectal Swiss German) resource list
 
 This is a page gathering an incomplete list of Swiss German, **dialectal** NLP goodies, with a focus on Swiss German ASR.
 
