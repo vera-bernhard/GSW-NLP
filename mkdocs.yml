@@ -1,4 +1,4 @@
-site_name: Swiss German NLP Resources
+site_name: Dialectal Swiss German NLP Resources
 theme:
   name: material
 
@@ -8,5 +8,6 @@ nav:
       - Text corpora: datasets/text-corpora.md
       - Speech corpora: datasets/speech-corpora.md
   - Tasks:
-      - ASR: tasks/asr.md
-      - MT: tasks/mt.md
+      - Automatic Speech Recognition: tasks/asr.md
+      - Machine Translation / Normalization: tasks/mt.md
+      - Miscellaneous: tasks/misc.md

@@ -1,19 +1,22 @@
-# Welcome to (incomplete) list of Swiss German NLP resources
+# GWS (dialectal Swiss German) resource list
 
-Here’s an incomplete list of Swiss German NLP goodies to help you dive right in!
+This is a page gathering an incomplete list of Swiss German, **dialectal** NLP goodies, with a focus on Swiss German ASR.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Checkout the page [SwissGermanUD](https://noe-eva.github.io/SwissGermanUD/swiss-german-nlp.html), for a similar list of Swiss German resources and projects links.
 
-## Commands
+## Explore the Resources
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### Datasets
+- **[Text Corpora](datasets/text-corpora.md):** Collections of written dialectal Swiss German text
+- **[Speech Corpora](datasets/speech-corpora.md):** Audio datasets for training and evaluating Swiss German ASR models.
 
-## Project layout
+### Tasks
+- **[Automatic Speech Recognition](tasks/asr.md):** A list of publications for training and evaluating ASR models on dialectal Swiss German.
+- **[Machine Translation / Normalization](tasks/mt.md):** A list of publications translating from and to dialectal Swiss German.
+- **[Miscellaneous](tasks/misc.md):** Other NLP tasks and resources related to Swiss German.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<br>
+<br>
+<br>
+
+*Note: This documentation reflects the state of resources as of May 1, 2025 and is by no means complete. It represents a snapshot for a project that was not realized, and it will not be updated regularly.  If questions should still arise, please open an issue on this page's [GitHub repository](https://github.com/vera-bernhard/GSW-NLP).*
